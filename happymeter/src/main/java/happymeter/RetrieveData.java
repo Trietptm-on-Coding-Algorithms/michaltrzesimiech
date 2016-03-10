@@ -15,53 +15,55 @@ import java.util.List;
 
 public class RetrieveData {
 
-	public static void main(String[] args) throws FileNotFoundException,
-			IOException {
-
-		// You need to configure this first
-		File file = new File("P:\\happiness.txt");
+	public static double average() throws FileNotFoundException, IOException {
 
 		/*
-		 * Add every line in the file to an array
+		 * This class retrieves log file defined in Main.class, breaks it in
+		 * parts and calculates your average happiness.
 		 */
-		
+
+		File file = Main.log;
+
 		List<String> lines = new ArrayList<String>();
+		List<String> scores = new ArrayList<String>();
+		List<Integer> scoresAsInts = new ArrayList<Integer>();
 
 		try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+
+			/*
+			 * Add every line in the file to an array
+			 */
 
 			String line;
 			while ((line = br.readLine()) != null) {
 				lines.add(line);
+
+				/*
+				 * Split parts of lines that are scores and trim them nicely
+				 */
+
+				for (String l : lines) {
+
+					String[] part = l.replaceAll("\\s", "").split("---");
+					scores.add(part[1]);
+
+					/*
+					 * Turn scores into an array of integers
+					 */
+
+					for (String s : scores) {
+						scoresAsInts.add(Integer.parseInt(s));
+					}
+				}
+
 			}
 
 		}
 
 		/*
-		 * Split parts of lines that represent scores and trim them nicely
-		 */
-		
-		List<String> scores = new ArrayList<String>();
-
-		for (String l : lines) {
-
-			String[] part = l.replaceAll("\\s", "").split("---");
-			scores.add(part[1]);
-		}
-
-		/*
-		 * Turn scores into an array of integers
-		 */
-		
-		List<Integer> scoresAsInts = new ArrayList<Integer>();
-
-		for (String s : scores) {
-			scoresAsInts.add(Integer.parseInt(s));
-		}
-
-		/*
 		 * Calculate and print average happiness
 		 */
-		
+
 		int sum = 0;
 		for (int sc : scoresAsInts) {
 			sum += sc;
@@ -69,7 +71,7 @@ public class RetrieveData {
 
 		double average = sum / scoresAsInts.size();
 
-		System.out.println("Your average happiness level is " + average);
+		return average;
 
 	}
 

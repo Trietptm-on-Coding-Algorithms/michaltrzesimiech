@@ -1,75 +1,112 @@
 /*
  * HAPPYMETER is a happiness measurement gimmick inspired by Nick Winter's amazing book "Motivation Hacker"
- * Just measure your happiness levels daily and save your results to JSON or text file.
+ * Measure your happiness levels daily and save your results to JSON or text file.
  */
-
-// TODO: Refactor and document this class
 
 package happymeter;
 
 import java.io.*;
 import java.util.Scanner;
 import java.util.Date;
+import org.json.simple.JSONObject;
 
 public class Main {
 
-	private static Scanner stringScanner;
-	public static Date date;
-	static String newRate;
-	private static int rateToInt;
-	static String newComment;
-
-	// You need to configure this first
 	static File log = new File("P:\\happiness.txt");
+	private static Date date = new Date();
+	private static String newComment;
+	private static String newRate;
 
 	public static void main(String[] args) throws IOException {
 
-		date = new Date();
-		stringScanner = new Scanner(System.in);
-
-		System.out.println("New entry timestamped " + date.toString() + "\n");
-
-		// TODO: Print info on average happiness so far
-		System.out.println("Add rate");
-		newRate = stringScanner.nextLine();
-
-		asess();
-		cheer();
+		gatherInput();
+		assessThenCheer();
 		printToFile();
 
-		// System.out.println("\nEntry saved to " + log.toString() + "\n");
-
 	}
 
-	private static void asess() {
+	private static void gatherInput() throws FileNotFoundException, IOException {
 
-		// TODO: Make it accept decimals
-		// http://stackoverflow.com/questions/1014284/regex-to-match-2-digits-optional-decimal-two-digits
-		// http://stackoverflow.com/questions/3059333/validating-input-using-java-util-scanner
+		System.out.println("Average happiness so far is "
+				+ RetrieveData.average());
+
+		/*
+		 * Enter new record based on keyboard input
+		 */
+
+		Scanner s = new Scanner(System.in);
+
+		System.out.println("New entry timestamped " + date.toString() + ":\n");
+
+		System.out.println("Add rate");
+		newRate = s.nextLine();
+
+		System.out.println("Add comment");
+		newComment = s.nextLine();
+	}
+
+	private static void assessThenCheer() {
+
+		/*
+		 * See whether the entry is between 1 and 10, then show support
+		 */
+
 		if (!newRate.matches("^([1-9]|10)$")) {
-			System.out.println("You need to enter value between 1 and 10.\nPlease take another run, Master.");
+			System.out.println("You need to enter value between 1 and 10."
+					+ "\nPlease take another run, Master.");
 			System.exit(1);
 		} else {
-			rateToInt = Integer.parseInt(newRate);
+			int rateToInt = Integer.parseInt(newRate);
+			if (rateToInt > 7) {
+				System.out.println("Oh sweet success, Master!");
+			} else {
+				System.out.println("It's going to get a lot better, Master.");
+			}
 		}
-	}
 
-	private static void cheer() {
-		System.out.println("Add comment");
-		newComment = stringScanner.nextLine();
-
-		if (rateToInt > 7) {
-			System.out.println("Oh sweet success, Master!");
-		} else {
-			System.out.println("It's going to get a lot better, Master.");
-		}
 	}
 
 	public static void printToFile() throws IOException {
 
+		/*
+		 * Save results to a text file
+		 */
+
 		PrintWriter out = new PrintWriter(new FileWriter(log, true));
-		out.append("- " + date.toString() + "  ---  " + newRate + "  ---  " + newComment + System.lineSeparator());
+		out.append("- " + date.toString() + "  ---  " + newRate + "  ---  "
+				+ newComment + System.lineSeparator());
 		out.close();
+
+		Process display = new ProcessBuilder("cmd", "/c", "P:\\happiness.txt")
+				.start();
+		// System.out.println("\nEntry saved to " + log.toString() + "\n");
+
+	}
+
+	private static void printToJson() throws IOException {
+
+		/*
+		 * Save results to a JSON file
+		 */
+
+		File json = new File("P:\\happiness-json.json");
+
+		JSONObject obj = new JSONObject();
+		obj.put("Datestamp:", Main.date.toString());
+		obj.put("Rate:", Main.newRate);
+		obj.put("Comment:", Main.newComment);
+
+		/*
+		 * TODO: Consider organising data into arrays: JSONArray JSONarray = new
+		 * JSONArray(); JSONarray.add("1"); JSONarray.add("2");
+		 * JSONarray.add("3"); obj.put("object", JSONarray);
+		 */
+
+		try (FileWriter file = new FileWriter(json)) {
+			file.write(obj.toJSONString());
+			System.out.println("Works great! \n\n" + obj);
+
+		}
 
 	}
 
