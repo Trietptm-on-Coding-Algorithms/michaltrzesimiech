@@ -3,6 +3,7 @@ These are just excercise files for my toy projects:
 
 - **cryptocalc**: .JSON fueled Bitcoin/Ethereum portfolio gimmick
 - **happymeter**: happiness measurement gimmick (inspired by Nick Winter's ["Motivation Hacker"])
+- **exper7**: a very basic expert system gimmick
 
 I learn Python and Java to become a full time developer in June 2016. I  do this intensively since January 2016, and yeah I know the goal's ambitious. I'm going to do it nevertheless until it's June and I'm either dead or doing important stuff with Ethereum/blockchain.
 
