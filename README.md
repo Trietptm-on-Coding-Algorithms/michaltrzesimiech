@@ -5,11 +5,14 @@ These are just excercise files for my toy projects:
 - **happymeter**: happiness measurement gimmick (inspired by Nick Winter's ["Motivation Hacker"])
 - **exper7**: a very basic expert system (not yet ready)
 
-I learn Java and Python to become a full time developer in June 2016. I  do this intensively since January 2016, and yeah I know the goal's ambitious. I'm going to do it nevertheless until it's June and I'm either dead or doing important stuff with Ethereum/blockchain.
-
-You can check if I try hard enough since I measure my effort on [Beeminder]. If you're interested in helping me out (code review, maybe?), why don't you drop me an email at michal@efektywnyaltruizmkrakow.org.
-
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
+
+I'm on my way to become a programmer working full time on a useful project* until June 2016. You can look up whether I try hard enough with this [Beeminder] chart, and then see if my code is any better than a random stuff a drugged chimp typed (it's not drammaticly better yet).
+
+I'm 29, and I owe the decision to my friends in [EA]. I want to be both more useful and subjectively happier (though I'm already in the higher end of my scale).
+
+*By useful project I mean: during one year of running it, A) helps at least one person that is not me either survive or improve life by decreasing suffering (any kind) by at least 10%, and/or increasing others' capacity to reduce at least 10% of suffering of at least one person that is not me by at least 5%, and/or B) enables systemic change that can be predicted with least 60:40 certainty to have positive impact on reducing suffering of at least 100 sentient beings and/or mitigating existential risk (both by at least 5%), and/or C) gets me closer to or better at A) and/or B) in a way I can argument for in front of at least 2 of my neutral friends.
 
 ["Motivation Hacker"]: http://www.nickwinter.net/the-motivation-hacker
 [Beeminder]: https://www.beeminder.com/michal_t/goals/code
+[EA]: http://www.effectivealtruism.org
