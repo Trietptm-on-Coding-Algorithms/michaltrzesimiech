@@ -5,7 +5,7 @@ These are just excercise files for my toy projects:
 - **happymeter**: happiness measurement gimmick (inspired by Nick Winter's ["Motivation Hacker"])
 - **exper7**: a very basic expert system (not yet ready)
 
-I learn Python and Java to become a full time developer in June 2016. I  do this intensively since January 2016, and yeah I know the goal's ambitious. I'm going to do it nevertheless until it's June and I'm either dead or doing important stuff with Ethereum/blockchain.
+I learn Java and Python to become a full time developer in June 2016. I  do this intensively since January 2016, and yeah I know the goal's ambitious. I'm going to do it nevertheless until it's June and I'm either dead or doing important stuff with Ethereum/blockchain.
 
 You can check if I try hard enough since I measure effort I put in on [Beeminder]. If you're interested in helping me out (code review, maybe?), why don't you drop me an email at michal@efektywnyaltruizmkrakow.org.
 
