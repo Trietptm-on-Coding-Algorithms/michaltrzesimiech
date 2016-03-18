@@ -7,7 +7,7 @@ These are just excercise files for my toy projects:
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
-I'm on my way to become a programmer working full time on a useful project* until June 2016. You can look up whether I try hard enough with this [Beeminder] chart, and then see if my code is any better than a random stuff a drugged chimp typed (it's not drammaticly better yet).
+I'm on my way to become a programmer working full time on a useful project* until June 2016 (I calibrate towards blockchain development and ethereum, would you convince me otherwise?). You can look up whether I try hard enough with this [Beeminder] chart, and then see if my code is any better than a random stuff a drugged chimp typed (it's not drammaticly better yet).
 
 I'm 29, and I owe the decision to my friends in [EA]. I want to be both more useful and subjectively happier (though I'm already in the higher end of my scale).
 
