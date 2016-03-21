@@ -27,14 +27,18 @@ public class Main {
 
 	private static void gatherInput() throws FileNotFoundException, IOException {
 
+		Scanner s = new Scanner(System.in);
+		
+		/*
+		 * Print out average happiness
+		 */
+
 		System.out.println("Average happiness so far is "
 				+ RetrieveData.average());
 
 		/*
 		 * Enter new record based on keyboard input
 		 */
-
-		Scanner s = new Scanner(System.in);
 
 		System.out.println("New entry timestamped " + date.toString() + ":\n");
 
@@ -43,6 +47,7 @@ public class Main {
 
 		System.out.println("Add comment");
 		newComment = s.nextLine();
+		
 	}
 
 	private static void assessThenCheer() {
@@ -73,12 +78,22 @@ public class Main {
 		 */
 
 		PrintWriter out = new PrintWriter(new FileWriter(log, true));
+
 		out.append("- " + date.toString() + "  ---  " + newRate + "  ---  "
 				+ newComment + System.lineSeparator());
 		out.close();
 
+		/*
+		 * Display the file (optional)
+		 */
+
 		Process display = new ProcessBuilder("cmd", "/c", "P:\\happiness.txt")
 				.start();
+
+		/*
+		 * Report success
+		 */
+
 		// System.out.println("\nEntry saved to " + log.toString() + "\n");
 
 	}
