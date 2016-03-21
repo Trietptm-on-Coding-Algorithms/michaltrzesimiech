@@ -1,49 +1,52 @@
+/*
+ * Calculate your BTC portfolio based on Coindesk's price data (.JSON)
+ */
+
 package calcBitcoin;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.IOException;
 import java.io.FileReader;
+import java.net.URL;
+import org.apache.commons.io.FileUtils;
 import com.google.gson.Gson;
-//import java.net.URL;
-//import java.net.URLConnection;
-//import java.io.InputStream;
-//import java.io.InputStreamReader;
-//import java.io.IOException;
-//import java.util.Date;
-////import org.json.JSONException;
-//import org.json.JSONObject;
-//import java.io.File;
-//import java.net.MalformedURLException;
-//import org.apache.commons.io.FileUtils;
-//import org.apache.commons.io.IOUtils;
 
 public class Main {
 
-	/*
-	 * PARSE .JSON DATA ON BITCOIN AND CALCULATE YOUR PORTFOLIO
-	 */
-
 	public static void main(String[] args) throws IOException {
 
-		// HOW MUCH BITCOIN DO YOU OWN?
-		double ownedBitcoin = 0.0; //0.2408511
-		
-		// URL url = new URL("https://api.coindesk.com/v1/bpi/currentprice.json");
-		// File file = new File("P:\\calcBitcoin.txt");
-		//
-		// FileUtils.copyURLToFile(url, file);
+		double ownedBitcoin = 0.0;
 
-		calculateBitcoinPortfolio(ownedBitcoin);
+		downloadJson();
+		calcBtcPortfolio(ownedBitcoin);
 
 	}
 
-	private static void calculateBitcoinPortfolio(double ownedBitcoin) {
+	private static void downloadJson() throws IOException {
+
+		/*
+		 * Copy Coindesk's .JSON file content to local file
+		 */
+
+		URL url = new URL("https://api.coindesk.com/v1/bpi/currentprice.json");
+		File file = new File("P:\\calcBitcoin.json");
+		FileUtils.copyURLToFile(url, file);
+
+	}
+
+	private static void calcBtcPortfolio(double ownedBitcoin) {
+
+		/*
+		 * Parse .JSON file to get data and calculate portolio
+		 */
+
 		Gson gson = new Gson();
 
 		try {
 
 			BufferedReader br = new BufferedReader(new FileReader(
-					"P:\\calcBitcoin.txt"));
+					"P:\\calcBitcoin.json"));
 
 			Bitcoin btc = gson.fromJson(br, Bitcoin.class);
 
