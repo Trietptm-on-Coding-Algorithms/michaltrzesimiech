@@ -1,5 +1,5 @@
 /*
- * Calculate your BTC portfolio based on Coindesk's price data (.JSON)
+ * Calculate your BTC portfolio based on price data in .JSON format
  */
 
 package calcBitcoin;
@@ -11,6 +11,7 @@ import java.io.FileReader;
 import java.net.URL;
 import org.apache.commons.io.FileUtils;
 import com.google.gson.Gson;
+import calcBitcoin.JSON.Bitcoin;
 
 public class Main {
 
