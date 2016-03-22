@@ -7,6 +7,9 @@ package calcEthereum;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
+import org.openqa.selenium.phantomjs.PhantomJSDriverService;
+import org.openqa.selenium.remote.DesiredCapabilities;
 
 public class Price {
 
@@ -21,6 +24,7 @@ public class Price {
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\UBS\\Dev\\chromedriver.exe");
 		driver = new ChromeDriver();
+				
 		driver.get("https://cryptowat.ch/kraken/etheur");
 
 		/*
@@ -36,4 +40,16 @@ public class Price {
 		return priceEth;
 
 	}
+	
+	/*
+	 * Test module: PhantomJSDriver
+	 * 
+	 *  DesiredCapabilities caps = new DesiredCapabilities();
+		caps.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY,
+		                "Path\\phantomjs.exe");                  
+		driver = new PhantomJSDriver(caps);
+	 * 
+	 * 
+	 */
+	
 }
