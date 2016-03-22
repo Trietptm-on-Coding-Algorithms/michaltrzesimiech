@@ -21,7 +21,7 @@ public class Price {
 				"C:\\UBS\\Dev\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("https://cryptowat.ch/kraken/etheur");
-
+		
 		/*
 		 * Find element representing price, parse it to a double, return
 		 */
@@ -29,7 +29,9 @@ public class Price {
 		double priceEth = Double.parseDouble(driver
 				.findElement(By.xpath("//*[@data-reactid='.1.1']")).getText()
 				.replaceAll("[€]", ""));
-		
+
+		// TODO: Make it alarm if price > 11 (SMSlib or email)
+
 		return priceEth;
 		
 	}

@@ -10,6 +10,8 @@ import java.io.FileReader;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
+import calcEthereum.JSON.Ethereum;
+
 import com.google.gson.Gson;
 
 public class Main {
@@ -25,8 +27,8 @@ public class Main {
 		double ownedEther = 38.34702;
 		double initInvestment = 1516.85;
 
-		calculateFromCryptowatch(ownedEther, initInvestment);
-		// calculateFromJson(ownedEther, initInvestment);
+//		calculateFromCryptowatch(ownedEther, initInvestment);
+		 calculateFromJson(ownedEther, initInvestment);
 
 	}
 
