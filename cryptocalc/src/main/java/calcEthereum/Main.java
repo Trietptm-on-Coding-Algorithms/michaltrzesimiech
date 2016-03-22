@@ -1,5 +1,5 @@
 /*
- * I use this to calculate my Ethereum portfolio. The price is parsed based on this data: https://www.cryptonator.com/api/ticker/eth-eur
+ * Calculate ETH portfolio based on current price.
  */
 
 package calcEthereum;
