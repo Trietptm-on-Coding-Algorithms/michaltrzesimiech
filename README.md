@@ -5,7 +5,7 @@ These are just excercise files for my toy projects:
 - **happymeter**: happiness measurement gimmick (inspired by Nick Winter's ["Motivation Hacker"])
 - **exper7**: a very basic expert system (not yet ready)
 
-I'm 29, and thanks to my friends in [EA], I've made the decision to get both more useful and fulfilled. My sole focus is to spend 222 hours coding Java and 61 hours learning its concepts to get to working full time doing programming on 1 seriously urgent project* and 1 gamble project** by the end of June 2016. 
+I'm 29, and thanks to my friends in [EA], I've made the decision to get both more useful and fulfilled. My sole focus is to spend 222 hours coding Java and 61 hours learning its concepts to get to working full time doing programming on 1 urgent project* and 1 gamble project** by the end of June 2016. 
 
 You can look up whether I learn hard enough with this [Beeminder] chart, and then [see] if my code is any better than the stuff a drugged chimp typed (hey, how can I make it better?).
 
