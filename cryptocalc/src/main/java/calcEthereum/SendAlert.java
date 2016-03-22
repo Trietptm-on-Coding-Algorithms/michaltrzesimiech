@@ -1,3 +1,7 @@
+/*
+ * Sends a price alert (early version, not functional yet)
+ */
+
 package calcEthereum;
 
 import java.util.Properties;
@@ -8,10 +12,6 @@ import javax.activation.*;
 
 public class SendAlert {
 
-	/*
-	 * EARLY VERSION, NOT TESTED YET
-	 */
-	
 	public static void main(String[] args) {
 
 		// Recipient's email ID needs to be mentioned.

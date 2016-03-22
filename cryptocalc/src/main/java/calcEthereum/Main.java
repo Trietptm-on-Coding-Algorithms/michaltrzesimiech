@@ -27,8 +27,8 @@ public class Main {
 		double ownedEther = 38.34702;
 		double initInvestment = 1516.85;
 
-//		calculateFromCryptowatch(ownedEther, initInvestment);
-		 calculateFromJson(ownedEther, initInvestment);
+		calculateFromCryptowatch(ownedEther, initInvestment);
+		// calculateFromJson(ownedEther, initInvestment);
 
 	}
 
