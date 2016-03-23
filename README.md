@@ -6,7 +6,7 @@ These are just excercise files for my toy projects:
 - **happymeter**: happiness measurement gimmick written in Java (inspired by Nick Winter's ["Motivation Hacker"])
 - **solidity-contracts**: here's where I store my first steps in [Solidity]
 
-My sole focus is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work on blockchain development until June 2016. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. Is there anything I'm missing here? Just send me a word: michal@efektywnyaltruizmkrakow.org
+My sole focus is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work on blockchain development until the end of June 2016. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. Is there anything I'm missing here? Just send me a word: michal@efektywnyaltruizmkrakow.org
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
