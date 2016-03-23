@@ -9,7 +9,7 @@ My sole focus is to spend 222 hours on coding and 60 hours on learning concepts 
 
 I have made my decision based on 12 months of ignoring advice offered to me by my friends in [EA] and [CFAR].
 
-Is there anything I'm missing here? Just [send] me a sentence.
+Is there anything I'm missing here? Just send me a sentence: michal@efektywnyaltruizmkrakow.org
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
@@ -18,4 +18,3 @@ If by any chance you'll find my code useful for your own projects, go on and use
 [EA]: http://www.effectivealtruism.org
 ["Motivation Hacker"]: http://www.nickwinter.net/the-motivation-hacker
 [CFAR]: http://rationality.org/
-[send]: crypto.michal.trzesimiech@gmail.com
