@@ -43,6 +43,7 @@ These are the books I ('ve) read during 6 months between February and July 2016 
 - "Refactoring to Patterns" by Joshua Kerievsky
 - [Paul Graham's essays]
 - [Eric Raymond's essays]
+- [Eric Barker's blog]
 
 ["Handbook of Applied Cryptography"]: http://cacr.uwaterloo.ca/hac/
 ["Mastering Bitcoin"]: https://github.com/bitcoinbook/bitcoinbook
@@ -59,3 +60,4 @@ These are the books I ('ve) read during 6 months between February and July 2016 
 [Eric Raymond's essays]: http://www.catb.org/esr/writings/
 [How to be a Programmer]: https://github.com/braydie/HowToBeAProgrammer
 [LessWrong]: http://lesswrong.com/
+[Eric Barker's blog]: http://www.bakadesuyo.com/about/
