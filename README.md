@@ -1,7 +1,6 @@
 # Hi!
 
-I'm Michal. My sole focus until July 2016 is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work messing with smart contracts and blockchain in general. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. 
-Is there anything I'm missing here? Just send me a word: michal@efektywnyaltruizmkrakow.org
+I'm Michal. My sole focus until July 2016 is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work around Ethereum. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. Is there anything I'm missing here? Just send me a word: michal@efektywnyaltruizmkrakow.org
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
