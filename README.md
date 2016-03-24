@@ -58,4 +58,4 @@ These are the books I ('ve) read during 6 months between February and July 2016 
 [Paul Graham's essays]: http://www.paulgraham.com/articles.html
 [Eric Raymond's essays]: http://www.catb.org/esr/writings/
 [How to be a Programmer]: https://github.com/braydie/HowToBeAProgrammer
-[Less Wrong]: http://lesswrong.com/
+[LessWrong]: http://lesswrong.com/
