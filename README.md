@@ -34,6 +34,7 @@ These are the books I ('ve) read during 6 months between February and July 2016 
 - ~~"Blockchain" by Melanie Swan (finished)~~
 - ~~["Ethereum Development Tutorial"] (finished)~~
 - ~~["A Next-Generation Smart Contract and Decentralized Application Platform"] White Paper (finished)~~
+- ~~Ethereum Documentation: [Frontier] and [Homestead] (finished)~~
 - More on public-key and private-key cryptography, peer-to-peer file sharing, distributed computing, network models, pseudonymity, blockchain ledgers, cryptocurrency protocols, complexity theory, number theory, and abstract algbra.
 
 #### General programming:
@@ -62,3 +63,5 @@ These are the books I ('ve) read during 6 months between February and July 2016 
 [LessWrong]: http://lesswrong.com/
 [Eric Barker's blog]: http://www.bakadesuyo.com/about/
 [The General Theory of Dapps]: https://github.com/DavidJohnstonCEO/DecentralizedApplications
+[Homestead]: https://ethereum-homestead.readthedocs.org/en/latest/
+[Frontier]: https://ethereum.gitbooks.io/frontier-guide/content/
