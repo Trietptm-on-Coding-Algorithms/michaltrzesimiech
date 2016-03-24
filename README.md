@@ -5,11 +5,11 @@ Is there anything I'm missing here? Just send me a word: michal@efektywnyaltruiz
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
-I have made my decision based on 12 months of ignoring advice offered to me by my friends in [EA] and [CFAR]. I have also made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having positive impact* will fall below 60:40, based on oppinion of at least 2 trusted experts (one of whom is my future employer).
+I have made my decision based on 12 months of ignoring advice offered to me by my friends in [EA] and [CFAR]. I have also made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having minimum positive impact* will fall below 60:40, based on oppinion of at least 2 trusted experts (one of whom is my future employer).
 
-By positive impact I mean that throughout 2 years of activity, the odds are at least 60:40 in favor of A) causing at least 1 person that is not me either to avoid early death (age <20) or suffer less by at least 10% (on a subjective scale; if a result of illness, poverty, and/or abuse of power); B) increasing capacity of others to save life (as described) or reduce suffering (as described) of at least one person that is not me by at least 10%; C) getting me closer to A) and/or B) in a way I can argument for in front of at least 2 of my neutral friends.
+By minimum positive impact I mean that for each year of activity the odds are at least 60:40 in favor of A) causing at least 1 person that is not me either to avoid early death (age <20) or suffer less by at least 10% (on a subjective scale; if a result of illness, poverty, and/or abuse of power); B) increasing capacity of others to save life (as described) or reduce suffering (as described) of at least one person that is not me by at least 10%; C) getting me closer to A) and/or B) in a way I can argument for in front of at least 2 of my neutral friends.
 
-I use self-regulation techniques as taught by [CFAR], with a bit of my own techniques I excersise since the last two years based on resources stored on [LessWrong] and related sources.
+I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks I excersise since three years based on resources stored on [LessWrong] and related sources.
 
 ## Training fields
 
