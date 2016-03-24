@@ -1,6 +1,6 @@
 # Hi!
 
-My sole focus until July 2016 is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work messing with smart contracts and blockchain in general. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. 
+I'm Michal. My sole focus until July 2016 is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work messing with smart contracts and blockchain in general. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. 
 Is there anything I'm missing here? Just send me a word: michal@efektywnyaltruizmkrakow.org
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
@@ -31,6 +31,7 @@ These are the books I ('ve) read during 6 months between February and July 2016 
 - ["Mastering Bitcoin"]  
 - ["Dapps for Beginners"]  
 - ["A 101 Noob Intro to Programming Smart Contracts"]  
+- [The General Theory of Dapps]
 - ~~"Blockchain" by Melanie Swan (finished)~~
 - ~~["Ethereum Development Tutorial"] (finished)~~
 - ~~["A Next-Generation Smart Contract and Decentralized Application Platform"] White Paper (finished)~~
@@ -61,3 +62,4 @@ These are the books I ('ve) read during 6 months between February and July 2016 
 [How to be a Programmer]: https://github.com/braydie/HowToBeAProgrammer
 [LessWrong]: http://lesswrong.com/
 [Eric Barker's blog]: http://www.bakadesuyo.com/about/
+[The General Theory of Dapps]: https://github.com/DavidJohnstonCEO/DecentralizedApplications
