@@ -13,7 +13,7 @@ I use self-regulation techniques as taught by [CFAR], with a couple of personal 
 
 ## Training fields
 
-This is what I figured out on my own since February 2016. It's mainly  Java, since I wanted to learn programming concepts beyond the  basics I've learned testing software, which I did full time for the last 2 years.
+This is what I figured out on my own since February 2016. It's mainly Java, since I wanted to learn programming concepts beyond the  basics I knew from testing software (which I did full time for the last 2 years).
 
 - **exper7**: a basic expert system written in Java (in progress)
 - **cryptocalc**: Bitcoin and Ethereum calculator written in Java (fed by Selenium or JSON) (in progress)
