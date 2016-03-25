@@ -2,7 +2,7 @@
 
 I'm Michal. 
 
-My sole focus for the 6 months until July 2016 is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work on Ethereum. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. 
+My sole focus for the 6 months until July 2016 is to spend at least 222 hours on coding and 61 hours on learning concepts in order to start full time work on Ethereum. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. 
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
