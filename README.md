@@ -1,8 +1,8 @@
-# Hi!
+# Hi
 
-I'm Michal. My sole focus until July 2016 is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work on Ethereum. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. 
+I'm Michal. 
 
-Is there anything I'm missing here? Just send me a word: michal@efektywnyaltruizmkrakow.org
+My sole focus for the 6 months until July 2016 is to spend 222 hours on coding and 61 hours on learning concepts in order to start full time work on Ethereum. You can look up whether I work hard enough with this [Beeminder] chart, and then see if my code is any good so far. 
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
@@ -69,3 +69,5 @@ These are the books I ('ve) read during 6 months between February and July 2016 
 [Homestead]: https://ethereum-homestead.readthedocs.org/en/latest/
 [Frontier]: https://ethereum.gitbooks.io/frontier-guide/content/
 [Solidity Docs]: http://solidity.readthedocs.org/en/latest/solidity-in-depth.html
+
+Is there anything I'm missing here? Just drop me a line: michal@efektywnyaltruizmkrakow.org
