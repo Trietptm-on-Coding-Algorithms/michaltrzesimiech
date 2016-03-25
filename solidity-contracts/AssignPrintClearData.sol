@@ -1,4 +1,5 @@
 contract AssignPrintClearData {
+
     uint[3] public data;
     event Print(uint256 out);
 
@@ -18,8 +19,8 @@ contract AssignPrintClearData {
 
     function clear(){
         //delete data[0];
-		//delete data[1];
-		//delete data[2];
+	//delete data[1];
+	//delete data[2];
         delete data; // clears the whole array
 		
     }
