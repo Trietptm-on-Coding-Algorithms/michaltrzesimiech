@@ -45,3 +45,26 @@ contract TimedContract2 {
 
     }
 }
+
+
+contract TimedContract3 {
+    
+    /*
+     * Costs 103489 gas
+     */
+    
+    uint public contractStart;
+    uint public contractTime;
+    address creator = msg.sender;
+    
+    event PrintString(string out);
+    event Print(uint256 out);
+    
+    function timedKill(uint _contractTime) {
+    contractStart = now;
+    contractTime = _contractTime;
+
+    if (now > contractStart + contractTime) throw;
+    
+    }
+}
