@@ -10,7 +10,7 @@ I have made my decision based on 12 months of ignoring data from both my [system
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
-*By minimum positive impact I mean that for each year of activity the odds are at least 60:40 in favor of A) causing at least 1 person that is not me either to avoid early death (age <20) or suffer less by at least 10% (on a subjective scale; if a result of illness, poverty, and/or abuse of power); B) increasing likeliness for others to save life (as described) or reduce suffering (as described) of at least one person that is not me by at least 10%; C) getting me closer to A) and/or B) in a way I can argument for in front of at least 2 of my neutral friends.
+*By minimum positive impact I mean that for each year of activity the odds are at least 60:40 in favor of A) causing at least 1 person that is not me either to avoid early death (age <20) or suffer less by at least 10% (on a subjective scale; if a result of illness, poverty, and/or abuse of power); B) increasing likeliness for others to save life (as described) or reduce suffering (as described) of at least one person that is not me by at least 10%; C) getting me closer to A) and/or B) in a way I can argument for in front of at least 2 of my neutral friends. I recognize positive [flow-through effects] that can occur while working on virtually any problem. I aim to optimize the game using this [framework]. 
 
 ## Training fields
 
@@ -25,20 +25,21 @@ This is what I figured out on my own since February 2016. It's mainly Java, sinc
 
 These are the books I ('ve) read during 6 months between February and July 2016 before I start messing with **Ethereum** full time. The list wouldn't come to being if not for my mentors and friends scattered around the world and the Internet. I'm grateful for each and every piece of advice coming my way, keeping this list updated to share it with others like me:
 
-#### Priority reading:
-
+#### Solidity and Ethereum
 - [Solidity Docs]
 - [Learn Solidity in Y Minutes]
+- ["Dapps for Beginners"]  
+- [The General Theory of Dapps]
+- ~~["A 101 Noob Intro to Programming Smart Contracts"]~~
+- ~~Ethereum Documentation: [Frontier] and [Homestead] (finished)~~
+- ~~["Ethereum Development Tutorial"] (finished)~~
+- ~~["A Next-Generation Smart Contract and Decentralized Application Platform"] White Paper (finished)~~
+
+#### Theory
 - "Applied Cryptography" by Bruce Schneier  
 - ["Handbook of Applied Cryptography"] by Alfred Menzes  
 - ["Mastering Bitcoin"]  
-- ["Dapps for Beginners"]  
-- ["A 101 Noob Intro to Programming Smart Contracts"]  
-- [The General Theory of Dapps]
 - ~~"Blockchain" by Melanie Swan (finished)~~
-- ~~["Ethereum Development Tutorial"] (finished)~~
-- ~~["A Next-Generation Smart Contract and Decentralized Application Platform"] White Paper (finished)~~
-- ~~Ethereum Documentation: [Frontier] and [Homestead] (finished)~~
 - More on public-key and private-key cryptography, peer-to-peer file sharing, distributed computing, network models, pseudonymity, blockchain ledgers, cryptocurrency protocols, complexity theory, number theory, and abstract algbra.
 
 #### General programming:
@@ -77,3 +78,5 @@ Is there anything I'm missing here? Just drop me a line: michal@efektywnyaltruiz
 [Solidity Docs]: http://solidity.readthedocs.org/en/latest/solidity-in-depth.html
 [Learn Solidity in Y Minutes]: https://learnxinyminutes.com/docs/solidity/
 [Joel on Software]: http://www.joelonsoftware.com/
+[flow-through effects]: http://blog.givewell.org/2013/05/15/flow-through-effects/
+[framework]: https://docs.google.com/document/d/1prRQQOviesyJDtW-_9x8nvK3WHh5O0i5GVCy2N_WDWQ/edit
