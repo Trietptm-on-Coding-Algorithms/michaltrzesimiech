@@ -2,9 +2,9 @@
 
 I'm Michal. 
 
-My focus for the 6 months between February and July 2016 is to spend at least 222 hours on coding and 61 hours on learning concepts in order to start building blockchain software full time. You can look up whether I work hard enough with this [Beeminder] chart, and then have a look around to see how I'm doing.
+My focus for the 6 months between February and July 2016 is to spend at least 222 hours on coding and 61 hours on learning concepts in order to start building blockchain software full time. You can look up whether I work hard enough with this [Beeminder] chart, and then have a look around to see how I'm doing (hey, I could really use your advice).
 
-To boost my confidence, I have made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having minimum positive impact* will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future employer). I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on academic research and resources stored on [LessWrong].
+I have made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having minimum positive impact* will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future employer). I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on resources stored on [LessWrong].
 
 I have made my decision based on 12 months of ignoring data from both my [system 1] and friendly advice from others. If there's any advice you're kind enough to share with me now, there's a great chance it's going to a big boost and turn out generally awesome. 
 
@@ -16,10 +16,10 @@ If by any chance you'll find my code useful for your own projects, go on and use
 
 This is what I figured out on my own since February 2016. It's mainly Java, since I wanted to learn programming concepts beyond the  basics I knew from testing software (which I did full time for the last 2 years).
 
-- **exper7**: a basic expert system written in Java (in progress)
-- **cryptocalc**: Bitcoin and Ethereum calculator written in Java (fed by Selenium or JSON) (in progress)
-- **happymeter**: happiness measurement gimmick written in Java (inspired by Nick Winter's ["Motivation Hacker"])
-- **solidity-contracts**: here's where I store my first steps in [Solidity]
+- **exper7**: a very basic expert system (Java)
+- **cryptocalc**: altcoin calculator (Java, Selenium, JSON)
+- **happymeter**: happiness measurement gimmick inspired by Nick Winter's ["Motivation Hacker"] (Java)
+- **solidity-contracts**: these are my first steps in [Solidity]
 
 ## Reading list
 
