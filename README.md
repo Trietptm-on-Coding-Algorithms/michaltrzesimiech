@@ -1,3 +1,5 @@
+####Note: this document is no longer maintained, but I still [track] my progress. Thanks for visiting and all of your advice so far. It's always great hearing from you.
+
 # Hi
 
 I'm Michal. 
@@ -80,3 +82,4 @@ Is there anything I'm missing here? Just drop me a line: michal@efektywnyaltruiz
 [Joel on Software]: http://www.joelonsoftware.com/
 [flow-through effects]: http://blog.givewell.org/2013/05/15/flow-through-effects/
 [framework]: https://docs.google.com/document/d/1prRQQOviesyJDtW-_9x8nvK3WHh5O0i5GVCy2N_WDWQ/edit
+[track]: https://www.beeminder.com/michal_t/goals/code
