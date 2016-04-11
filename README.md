@@ -80,4 +80,4 @@ Is there anything I'm missing here? Just drop me a line: michal@efektywnyaltruiz
 [flow-through effects]: http://blog.givewell.org/2013/05/15/flow-through-effects/
 [framework]: https://docs.google.com/document/d/1prRQQOviesyJDtW-_9x8nvK3WHh5O0i5GVCy2N_WDWQ/edit
 [track]: https://www.beeminder.com/michal_t/goals/code
-[Please, let me know]: michal@efektywnyaltruizmkrakow.org
+[Please, let me know]: <mailto:michal@efektywnyaltruizmkrakow.org>
