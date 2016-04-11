@@ -2,7 +2,7 @@
 
 I'm Michal. 
 
-My sole focus for the 6 months between February and July 2016 is to spend at least 222 hours on coding and 61 hours on learning concepts in order to start building blockchain software full time. You can look up whether I work hard enough with this [Beeminder] chart, and then have a look around to see how I'm doing. What am I mising here (drop me a line at michal@efektywnyaltruizmkrakow.org).
+My sole focus for the 6 months between February and July 2016 is to spend at least 222 hours on coding and 61 hours on learning concepts in order to start building blockchain software full time. You can look up whether I work hard enough with this [Beeminder] chart, and then have a look around to see how I'm doing. Is there anything I'm mising here? [Please, let me know].
 
 I have made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having minimum positive impact* will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future employer). I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on resources stored on [LessWrong].
 
@@ -80,3 +80,4 @@ Is there anything I'm missing here? Just drop me a line: michal@efektywnyaltruiz
 [flow-through effects]: http://blog.givewell.org/2013/05/15/flow-through-effects/
 [framework]: https://docs.google.com/document/d/1prRQQOviesyJDtW-_9x8nvK3WHh5O0i5GVCy2N_WDWQ/edit
 [track]: https://www.beeminder.com/michal_t/goals/code
+[Please, let me know]: michal@efektywnyaltruizmkrakow.org
