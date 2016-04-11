@@ -12,18 +12,22 @@ If by any chance you'll find my code useful for your own projects, go on and use
 
 *By minimum positive impact I mean that for each year of activity the odds are at least 60:40 in favor of A) causing at least 1 person that is not me either to avoid early death (age <20) or suffer less by at least 10% (on a subjective scale; if a result of illness, poverty, and/or abuse of power); B) increasing likeliness for others to save life (as described) or reduce suffering (as described) of at least one person that is not me by at least 10%; C) getting me closer to A) and/or B) in a way I can argument for in front of at least 2 of my neutral friends. I do recognize [flow-through effects] that can occur while working on virtually any problem. I aim to optimize the game using this [framework].
 
-### Training grounds
+### My babies
 
-This is parts of what I figured out on my own since February 2016:
+#####In development
+- **automentor**: a decentralized bot to automate mentoring process where there are no human mentors around
+- **cookie**: a fundraiser bot intermediating in raising funds for the world's most effective charities (as listed by [GiveWell])
+
+#####Discontinued/on hold
 
 - **exper7**: a very basic expert system (Java)
 - **cryptocalc**: altcoin calculator (Java, Selenium, JSON)
 - **happymeter**: happiness measurement gimmick inspired by Nick Winter's ["Motivation Hacker"] (Java)
 - **solidity-contracts**: these are my first steps in [Solidity]
 
-### Reading list
+### My reading list
 
-The list wouldn't come to being if not for my mentors and friends scattered around the world and the Internet. I'm grateful for each and every piece of advice coming my way, keeping this list updated to share it with others like me:
+The list wouldn't come to being if not for my mentors and friends scattered around the world and the Internet. I'm grateful for each and every piece of advice coming my way, keeping this list updated to share it with others like me (though I recognize the value of deliberate practice over theoretical knowledge):
 
 ##### Solidity and Ethereum
 - [Solidity Docs]
@@ -81,3 +85,4 @@ Is there anything I'm missing here? Just drop me a line: michal@efektywnyaltruiz
 [framework]: https://docs.google.com/document/d/1prRQQOviesyJDtW-_9x8nvK3WHh5O0i5GVCy2N_WDWQ/edit
 [track]: https://www.beeminder.com/michal_t/goals/code
 [Please, let me know]: <mailto:michal@efektywnyaltruizmkrakow.org>
+[GiveWell]: http://www.givewell.org/
