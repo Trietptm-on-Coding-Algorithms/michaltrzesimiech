@@ -12,7 +12,7 @@ If by any chance you'll find my code useful for your own projects, go on and use
 
 *By minimum positive impact I mean that for each year of activity the odds are at least 60:40 in favor of A) causing at least 1 person that is not me either to avoid early death (age <20) or suffer less by at least 10% (on a subjective scale; if a result of illness, poverty, and/or abuse of power); B) increasing likeliness for others to save life (as described) or reduce suffering (as described) of at least one person that is not me by at least 10%; C) getting me closer to A) and/or B) in a way I can argument for in front of at least 2 of my neutral friends. I do recognize [flow-through effects] that can occur while working on virtually any problem. I aim to optimize the game using this [framework].
 
-## Training grounds
+### Training grounds
 
 This is parts of what I figured out on my own since February 2016:
 
@@ -21,11 +21,11 @@ This is parts of what I figured out on my own since February 2016:
 - **happymeter**: happiness measurement gimmick inspired by Nick Winter's ["Motivation Hacker"] (Java)
 - **solidity-contracts**: these are my first steps in [Solidity]
 
-## Reading list
+### Reading list
 
 The list wouldn't come to being if not for my mentors and friends scattered around the world and the Internet. I'm grateful for each and every piece of advice coming my way, keeping this list updated to share it with others like me:
 
-#### Solidity and Ethereum
+##### Solidity and Ethereum
 - [Solidity Docs]
 - [Learn Solidity in Y Minutes]
 - ["Dapps for Beginners"]  
@@ -35,14 +35,14 @@ The list wouldn't come to being if not for my mentors and friends scattered arou
 - ~~["Ethereum Development Tutorial"] (finished)~~
 - ~~["A Next-Generation Smart Contract and Decentralized Application Platform"] White Paper (finished)~~
 
-#### Theory
+##### Theory
 - "Applied Cryptography" by Bruce Schneier  
 - ["Handbook of Applied Cryptography"] by Alfred Menzes  
 - ["Mastering Bitcoin"]  
 - ~~"Blockchain" by Melanie Swan (finished)~~
 - More on public-key and private-key cryptography, peer-to-peer file sharing, distributed computing, network models, pseudonymity, blockchain ledgers, cryptocurrency protocols, complexity theory, number theory, and abstract algbra.
 
-#### General programming:
+##### General programming:
 - "The Pragmatic Programmer" by Andy Hunt and Dave Thomas
 - [How to be a Programmer] by Robert L. Read
 - "Clean Code" by Robert Cecil Martin
