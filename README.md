@@ -84,4 +84,4 @@ If by any chance you'll find my code useful for your own projects, go on and use
 [track]: https://www.beeminder.com/michal_t/goals/code
 [Please, let me know]: <mailto:michal@efektywnyaltruizmkrakow.org>
 [GiveWell]: http://www.givewell.org/
-[direct or indirect economic empowerment]: http://www.givewell.org/international/economic-empowerment
+[direct or indirect international economic empowerment]: http://www.givewell.org/international/economic-empowerment
