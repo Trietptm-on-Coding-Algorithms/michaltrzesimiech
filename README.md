@@ -4,7 +4,7 @@ I'm Michal.
 
 My sole focus for the 6 months between February and July 2016 is to spend at least 222 hours on coding and 61 hours on learning concepts in order to start building blockchain software full time. You can look up whether I work hard enough with this [Beeminder] chart, and then have a look around to see how I'm doing. I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on resources stored on [LessWrong].
 
-I have made my decision based on 12 months of ignoring data from both my [system 1] and friendly advice from my friends in [EA]. I have also made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having better than average positive impact on [direct or indirect international economic empowerment] will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future employer).  I aim to optimize optional [flow-through effects] using this [framework].
+I have made my decision based on 12 months of ignoring data from both my [system 1] and friendly advice from my friends in [EA]. I have also made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having better than average positive impact on [direct or indirect international economic empowerment] will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future employer).  I aim to optimize benefits from potential [flow-through effects] using this [framework].
 
 Is there anything I'm mising here? [Please, let me know].
 
