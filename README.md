@@ -2,11 +2,11 @@
 
 I'm Michal. 
 
-My sole focus for the 6 months between February and July 2016 is to spend at least 222 hours on coding and 61 hours on learning concepts in order to start building blockchain software full time. You can look up whether I work hard enough with this [Beeminder] chart, and then have a look around to see how I'm doing. Is there anything I'm mising here? [Please, let me know].
+My sole focus for the 6 months between February and July 2016 is to spend at least 222 hours on coding and 61 hours on learning concepts in order to start building blockchain software full time. You can look up whether I work hard enough with this [Beeminder] chart, and then have a look around to see how I'm doing. I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on resources stored on [LessWrong].
 
-I have made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having minimum positive impact* will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future employer). I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on resources stored on [LessWrong].
+I have made my decision based on 12 months of ignoring data from both my [system 1] and friendly advice from my friends in [EA]. I have also made an oath not to change this direction for 2 years unless I fail by July, or if the odds of having better than average positive impact on [direct or indirect international economic empowerment] will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future employer).  I aim to optimize optional [flow-through effects] using this [framework].
 
-*By minimum positive impact I mean that for each year of activity the odds are at least 60:40 in favor of A) causing at least 1 person that is not me either to avoid early death (age <20) or suffer less by at least 10% (on a subjective scale; if a result of illness, poverty, and/or abuse of power); B) increasing likeliness for others to save life (as described) or reduce suffering (as described) of at least one person that is not me by at least 10%; C) getting me closer to A) and/or B) in a way I can argument for in front of at least 2 of my neutral friends. I do recognize [flow-through effects] that can occur while working on virtually any problem. I aim to optimize the game using this [framework].
+Is there anything I'm mising here? [Please, let me know].
 
 ### Training grounds
 
@@ -52,7 +52,7 @@ The list wouldn't come to being if not for my mentors and friends scattered arou
 - [Eric Barker's blog]
 - [Joel on Software]
 
-I have made my decision based on 12 months of ignoring data from both my [system 1] and friendly advice from others. If there's any advice you'd like to share with me, there's a great chance it'll turn out a great boost to me. 
+If there's any advice you'd like to share with me, there's a great chance it'll turn out a great boost to me. 
 
 If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
@@ -84,3 +84,4 @@ If by any chance you'll find my code useful for your own projects, go on and use
 [track]: https://www.beeminder.com/michal_t/goals/code
 [Please, let me know]: <mailto:michal@efektywnyaltruizmkrakow.org>
 [GiveWell]: http://www.givewell.org/
+[direct or indirect economic empowerment]: http://www.givewell.org/international/economic-empowerment
