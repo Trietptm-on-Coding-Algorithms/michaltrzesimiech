@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Steven Wright's Brother",
-    "description": "Built Steven Wright's brother, so that they're Wright Brothers now. It's a chrome addon that brings Steven's jokes up at random times.",
+    "description": "Built Steven Wright's brother, so that they're Wright brothers now. It's a Chrome addon that brings Steven's jokes up at random times.",
     "version": "1.0",
     
     "browser_action": {
