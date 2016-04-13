@@ -14,6 +14,7 @@ Is there anything I'm mising here? [Please, let me know].
 - **automentor**: a decentralized bot to automate mentoring process where there are no human mentors around
 - **cookie**: an Ethereum-fueled fundraiser bot working for the world's most effective charities (as listed by [GiveWell])
 - **solidity-contracts**: these are my first steps in [Solidity]
+- **chrome-stevenwrightsbrother**: it's a Chrome addon that brings Steven Wright's jokes up at random times
 
 #####Discontinued/on hold
 
