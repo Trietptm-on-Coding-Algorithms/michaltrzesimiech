@@ -11,16 +11,18 @@ Is there anything I'm mising here? [Please, let me know].
 ### Training grounds
 
 #####In development
+
+- **CryptocalcWeb**: a web version of cryptocalc (Spring MVC, JSP, JSTL)
 - **automentor**: a decentralized bot to automate mentoring process where there are no human mentors around
 - **cookie**: an Ethereum-fueled fundraiser bot working for the world's most effective charities (as listed by [GiveWell])
 - **solidity-contracts**: these are my first steps in [Solidity]
-- **chrome-stevenwrightsbrother**: it's a Chrome addon that brings Steven Wright's jokes up at random times
 
-#####Discontinued/on hold
+#####Done/on hold
 
 - **exper7**: a very basic expert system (Java)
-- **cryptocalc**: altcoin calculator (Java, Selenium, JSON)
+- **cryptocalc**: altcoin portfolio calculator (Java, Selenium, JSON)
 - **happymeter**: happiness measurement gimmick inspired by Nick Winter's ["Motivation Hacker"] (Java)
+- **chrome-stevenwrightsbrother**: it's a Chrome addon that brings up Steven Wright's jokes
 
 ### Reading list
 
