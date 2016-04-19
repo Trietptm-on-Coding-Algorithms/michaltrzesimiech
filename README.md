@@ -33,16 +33,16 @@ The list wouldn't come to being if not for my mentors and friends scattered arou
 - [Learn Solidity in Y Minutes]
 - ["Dapps for Beginners"]  
 - [The General Theory of Dapps]
-- ~~["A 101 Noob Intro to Programming Smart Contracts"]~~
-- ~~Ethereum Documentation: [Frontier] and [Homestead] (finished)~~
-- ~~["Ethereum Development Tutorial"] (finished)~~
-- ~~["A Next-Generation Smart Contract and Decentralized Application Platform"] White Paper (finished)~~
+- ["A 101 Noob Intro to Programming Smart Contracts"]
+- Ethereum Documentation: [Frontier] and [Homestead] (finished)
+- ["Ethereum Development Tutorial"] (finished)
+- ["A Next-Generation Smart Contract and Decentralized Application Platform"] White Paper (finished)
 
 ##### Theory
 - "Applied Cryptography" by Bruce Schneier  
 - ["Handbook of Applied Cryptography"] by Alfred Menzes  
 - ["Mastering Bitcoin"]  
-- ~~"Blockchain" by Melanie Swan (finished)~~
+- "Blockchain" by Melanie Swan
 - More on public-key and private-key cryptography, peer-to-peer file sharing, distributed computing, network models, pseudonymity, blockchain ledgers, cryptocurrency protocols, complexity theory, number theory, and abstract algbra.
 
 ##### General programming:
