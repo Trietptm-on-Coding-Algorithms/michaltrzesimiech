@@ -55,9 +55,7 @@ The list wouldn't come to being if not for my mentors and friends scattered arou
 - [Eric Barker's blog]
 - [Joel on Software]
 
-If there's any advice you'd like to share with me, there's a great chance it'll turn out a great boost to me. 
-
-If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
+If there's any advice you'd like to share, there's a great chance it'll turn out a great boost. If by any chance you'll find my code useful for your own projects, go on and use it without asking me. It's great that way.
 
 [system 1]: http://bigthink.com/errors-we-live-by/kahnemans-mind-clarifying-biases
 ["Handbook of Applied Cryptography"]: http://cacr.uwaterloo.ca/hac/
