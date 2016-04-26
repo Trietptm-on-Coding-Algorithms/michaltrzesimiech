@@ -44,6 +44,7 @@ I wouldn't make progress if not for my friends and mentors scattered across the 
 - More on public-key and private-key cryptography, peer-to-peer file sharing, distributed computing, network models, pseudonymity, blockchain ledgers, cryptocurrency protocols, complexity theory, number theory, and abstract algbra.
 
 #### General programming:
+- "Algorithms" by Robert Sedgewick and Kevin Wayne
 - "The Pragmatic Programmer" by Andy Hunt and Dave Thomas
 - [How to be a Programmer] by Robert L. Read
 - "Clean Code" by Robert Cecil Martin
