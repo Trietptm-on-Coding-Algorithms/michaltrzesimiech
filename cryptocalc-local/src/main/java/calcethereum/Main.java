@@ -10,8 +10,10 @@ public class Main implements Calculate {
 
 	public static void main(String[] args) throws IOException {
 
-		// Enter values (ether owned, initial investment in PLN, rate EUR/PLN)
-		Calculate.calculate(38.34702, 1516.85, 4.37);
+		Calculate.calculate(
+				38.34702, 	// owned ether
+				1516.85, 	// initial investment in PLN
+				4.37); 		// rate EUR/PLN
 
 	}
 
