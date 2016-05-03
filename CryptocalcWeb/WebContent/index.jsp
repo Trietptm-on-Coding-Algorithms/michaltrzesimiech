@@ -1,5 +1,6 @@
-<%@page import="json.FetchPrice"%>
-<%@ page import="java.util.Date,java.util.List,java.io.*"%>
+<%@ page import="json.FetchPrice"%>
+<%@ page import="java.util.*"%>
+<%@ page import="java.io.*"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
 <%@ taglib prefix="x" uri="http://java.sun.com/jsp/jstl/xml"%>
@@ -157,23 +158,5 @@ PNL_custom.value=answer;
 
 	</div>
 
-	<script>
-		$.cookie("test", 1, {
-			expires : 5
-		});
-	</script>
-
 </body>
-
-<%-- Elements of a .jsp page:
-directives: comprehensive information on the page
-statements: to declare methods and attributes
-scriptlets: Java code that will be translated into code in the service() method
-expressions: to easily send dynamically created string to the browser --%>
-
-<%--
-TODO: fetching live data onclick for "Look up prices" (json>db>site) or json dataloader
-TODO: test conditional formatting
- --%>
-
 </html>
