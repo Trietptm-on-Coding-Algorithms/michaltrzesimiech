@@ -2,7 +2,7 @@
 
 I'm Michal. 
 
-My focus for the 6 months until July 2016 is to spend at least 300 hours learning blockchain concepts hands-on. You can look up whether I work hard enough with these [Beeminder] [charts] and then have a look around to see how I'm doing. 
+My focus for the 6 months until July 2016 is to spend at least 300 hours learning blockchain concepts hands-on. You can look up whether I work hard enough with [these] Beeminder [charts] and then have a look around to see how I'm doing. 
 
 I have made an oath not to change this direction for 2 years unless the long-term odds of having substantial positive impact on [direct or indirect international economic empowerment] will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future mentor or employer). I aim to optimize benefits from potential [flow-through effects] using this [framework]. I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on resources stored on [LessWrong].
 
@@ -64,7 +64,7 @@ If by any chance you'll find my code useful for your own projects, go on and use
 ["Dapps for Beginners"]: https://dappsforbeginners.wordpress.com/
 ["A Next-Generation Smart Contract and Decentralized Application Platform"]: https://github.com/ethereum/wiki/wiki/White-Paper
 ["Ethereum Development Tutorial"]: https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial
-[Beeminder]: https://www.beeminder.com/michal_t/goals/code
+[these]: https://www.beeminder.com/michal_t/goals/code
 [CFAR]: http://rationality.org
 [friends]: http://www.effectivealtruism.org
 ["Motivation Hacker"]: http://www.nickwinter.net/the-motivation-hacker
