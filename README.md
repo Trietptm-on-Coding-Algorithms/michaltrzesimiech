@@ -4,7 +4,7 @@ I'm Michal.
 
 My focus for the 6 months until July 2016 is to spend at least 300 hours learning blockchain concepts hands-on. You can look up whether I work hard enough with these [Beeminder] [charts] and then have a look around to see how I'm doing. 
 
-I have made an oath not to change this direction for 2 years unless the long-term odds of having better than average positive impact on [direct or indirect international economic empowerment] will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future mentor/employer).  I have made my decision based on 12 months of ignoring data from both my [system 1] and advice from my [friends]. I aim to optimize benefits from potential [flow-through effects] using this [framework]. I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on resources stored on [LessWrong].
+I have made an oath not to change this direction for 2 years unless the long-term odds of having substantial positive impact on [direct or indirect international economic empowerment] will fall below 60:40 (based on oppinion of at least 2 trusted experts, one of whom is my future mentor or employer). I aim to optimize benefits from potential [flow-through effects] using this [framework]. I use self-regulation techniques as taught by [CFAR], with a couple of personal tweaks based on resources stored on [LessWrong].
 
 I wouldn't make progress if not for my friends and mentors scattered across the world and the Internet. I'm grateful for each and every piece of advice coming my way. If there's anything I'm mising here, [please let me know].
 
